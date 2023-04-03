@@ -1,16 +1,17 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='my-project',
+    name='pyConvertWebp',
     version='1.0.0',
     packages=find_packages(),
     install_requires=[
         'pillow',
-        'twine'
+        'twine',
+        'wheel',
     ],
     entry_points={
         'console_scripts': [
-            'convert-images = my_project.convert_images:main'
+            'convert-images = pyConvertWebp.convert_images:main'
         ]
     },
     classifiers=[
