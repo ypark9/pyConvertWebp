@@ -8,6 +8,8 @@
 
 [yopa.page][website-url] "My treasure? If you want it, I'll let you have it. Look for it; I left all of it at that place."
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 <!-- MARKDOWN LINKS & IMAGES -->
 [website-shield]: https://img.shields.io/website?style=for-the-badge&url=https://www.yopa.page
 [website-url]: https://www.yopa.page
